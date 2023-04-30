@@ -23,7 +23,7 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://durbangash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: durbanagsh
 github_username:  durbanagsh
-
+  
 # Build settings
 markdown: kramdown
 #theme: minima
